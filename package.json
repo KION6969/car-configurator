@@ -1,0 +1,26 @@
+{
+  "name": "car-configurator",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A 3D car configurator built with vanilla HTML, CSS, and JavaScript. No build step, no framework, no dependencies.",
+  "license": "MIT",
+  "author": "KION6969",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KION6969/car-configurator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KION6969/car-configurator/issues"
+  },
+  "keywords": [
+    "car-configurator",
+    "3d",
+    "css",
+    "javascript",
+    "vanilla",
+    "frontend"
+  ],
+  "scripts": {
+    "start": "python -m http.server 8000"
+  }
+}
